@@ -1,7 +1,7 @@
 
 # A Basic Calculator using Flask
 
-Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
+#### Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
 
 #### Get vs Post
 These are methods of requesting data.
@@ -20,7 +20,7 @@ Activate virtual envirnoment
 
 Install Flask
 
-#### Step-2:
+### Step-2:
 Import flask
 
 create flask object
@@ -29,8 +29,9 @@ create app routes following with function associated with that route (Postman)
 
 run app()
 
-#### Step-3:
-Add header and body to the local workspace in Postman
+### Step-3:
+Add header and body to the local workspace in Postman.
+And also add Flask URL with route at the POST method.
 
 <img src="images/Postman_body.png" width="900">
 
