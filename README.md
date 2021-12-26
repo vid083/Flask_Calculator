@@ -15,12 +15,16 @@ This is a simple calculator API. Here the route will take json input, which will
 
 ### Step-1:
 Create a virtual envirnoment
+#### python3 -m venv env
 
 Activate virtual envirnoment
+#### source env/bin/activate
 
 Install Flask
+#### pip install Flask
 
-### Step-2:
+### Step-2: 
+app.py
 Import flask
 
 create flask object
