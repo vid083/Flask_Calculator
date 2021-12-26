@@ -33,9 +33,9 @@ run app()
 Add header and body to the local workspace in Postman.
 And also add Flask URL with route at the POST method.
 
-<img src="images/Postman_body.png" width="900">
+<img src="images/Postman_body.png" width="500">
 
-<img src="images/Postman_header.png" width="900">
+<img src="images/Postman_header.png" width="500">
 
 
 
