@@ -14,17 +14,13 @@ This is a simple calculator API. Here the route will take json input, which will
 #### Postman is a collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so, a better and faster APIs are created.
 
 ### Step-1:
-Create a virtual envirnoment
-#### python3 -m venv env
+Create a virtual envirnoment : python3 -m venv env
 
-Activate virtual envirnoment
-#### source env/bin/activate
+Activate virtual envirnoment : source env/bin/activate
 
-Install Flask
-#### pip install Flask
+Install Flask : pip install Flask
 
-### Step-2: 
-app.py
+### Step-2: app.py
 Import flask
 
 create flask object
