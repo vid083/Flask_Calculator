@@ -3,11 +3,6 @@
 
 #### Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
 
-#### Get vs Post
-These are methods of requesting data.
-when you search for anything on Google, you can easily see your search query in the resulting URL but When you log in to your Gmail account, the resulting URL doesn't show your Gmail id or password.
-#### Google search use Get Method-For less secure data 
-#### Gmail log in use Post Method-for secured data
 
 This is a simple calculator API. Here the route will take json input, which will be passed using Postman.
 
